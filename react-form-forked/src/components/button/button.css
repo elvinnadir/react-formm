@@ -1,0 +1,15 @@
+.button {
+  outline: none;
+  width: max-content;
+  background-color: cornsilk;
+  border: none;
+  box-sizing: border-box;
+  padding: 10px;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s all ease;
+}
+.button:hover {
+  background-color: darkgreen;
+}
